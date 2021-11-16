@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://hugueds.github.io/pt/blog/</loc>
     <lastmod>2021-05-25T00:24:24-03:00</lastmod>
@@ -15,9 +14,7 @@
                 hreflang="pt"
                 href="https://hugueds.github.io/pt/blog/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hugueds.github.io/pt/</loc>
     <lastmod>2021-05-25T00:24:24-03:00</lastmod>
     <xhtml:link
@@ -30,14 +27,10 @@
                 hreflang="pt"
                 href="https://hugueds.github.io/pt/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hugueds.github.io/pt/blog/hello-world/</loc>
     <lastmod>2021-05-25T00:24:24-03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hugueds.github.io/pt/tags/programming/</loc>
     <lastmod>2021-05-25T00:24:24-03:00</lastmod>
     <xhtml:link
@@ -50,9 +43,7 @@
                 hreflang="pt"
                 href="https://hugueds.github.io/pt/tags/programming/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hugueds.github.io/pt/tags/</loc>
     <lastmod>2021-05-25T00:24:24-03:00</lastmod>
     <xhtml:link
@@ -65,9 +56,7 @@
                 hreflang="pt"
                 href="https://hugueds.github.io/pt/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hugueds.github.io/pt/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -80,5 +69,4 @@
                 href="https://hugueds.github.io/pt/categories/"
                 />
   </url>
-  
 </urlset>
